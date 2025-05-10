@@ -101,13 +101,6 @@ Tabel: `mahasiswa`
 5. Data dihapus dari database
 6. User diarahkan kembali ke halaman utama
 
-## Keunggulan Arsitektur MVP
-1. **Separation of Concerns**: Pemisahan tanggung jawab yang jelas antara Model, View, dan Presenter
-2. **Testability**: Komponen-komponen dapat diuji secara terpisah
-3. **Reusability**: Komponen dapat digunakan kembali dalam konteks yang berbeda
-4. **Maintainability**: Kode lebih mudah dipelihara dan dikembangkan
-5. **Fleksibilitas**: UI dapat diubah tanpa mempengaruhi logika bisnis
-
 # Dokumentasi 
 
 ![Deskripsi Gambar](Screenshot/SCREEN-RECORD.gif)
